@@ -1,1 +1,1 @@
-Android API 24 (Nougat) prebuilt shared libraries
+Android API 24 (Nougat) ARM64 prebuilt shared libraries
